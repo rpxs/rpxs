@@ -1,6 +1,6 @@
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="
-https://cdn.discordapp.com/avatars/410975710342021130/7331ae5cfb2f66b43236544fa6059e64.png?size=2048">
+https://cdn.discordapp.com/avatars/410975710342021130/7331ae5cfb2f66b43236544fa6059e64.png">
 </p>
 <h1 align="center">Contact</h1>
 
