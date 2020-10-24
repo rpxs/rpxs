@@ -4,8 +4,9 @@
 <h1 align="center">VedantA2</h1>
 
 
-## Popular Projects:
+## Popular Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanta2&repo=Gats-SkinPack)](https://github.com/VedantA2/Gats-SkinPack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanta2&repo=rpc-example)](https://github.com/VedantA2/rpc-example)
 
 
 ### Languages, Tools, and Frameworks I Use:
