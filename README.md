@@ -1,12 +1,12 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://images-na.ssl-images-amazon.com/images/I/617XW8TcTlL._SL1090_.jpg">
+    <img style="border-radius: 100px" width="128" height="128" src="https://gyazo.com/5e4c06857a9e9b5397efbc10c87857e7">
 </p>
-<h1 align="center">VedantA2</h1>
+<h1 align="center">Rxpo</h1>
 
 
 ## Popular Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanta2&repo=Gats-SkinPack)](https://github.com/VedantA2/Gats-SkinPack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vedanta2&repo=rpc-example)](https://github.com/VedantA2/rpc-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rxpo&repo=Gats-SkinPack)](https://github.com/Rxpo/Gats-SkinPack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rxpo&repo=rpc-example)](https://github.com/Rxpo/rpc-example)
 
 
 ### Languages, Tools, and Frameworks I Use:
