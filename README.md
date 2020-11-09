@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://gyazo.com/5e4c06857a9e9b5397efbc10c87857e7">
+    <img src="https://cutewallpaper.org/21/white-4k-background/Free-White-Background-Stock-Video-Footage-16,915-Free-.jpg">
 </p>
 <h1 align="center">Rxpo</h1>
 
