@@ -5,8 +5,8 @@
 
 
 ## Popular Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rxps&repo=Gats-SkinPack)](https://github.com/rpxs/Gats-SkinPack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rxps&repo=rpc-example)](https://github.com/rpxs/rpc-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rpxs&repo=Gats-SkinPack)](https://github.com/rpxs/Gats-SkinPack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rpxs&repo=rpc-example)](https://github.com/rpxs/rpc-example)
 
 
 ### Languages, Tools, and Frameworks I Use:
