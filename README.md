@@ -9,7 +9,7 @@ I'm rpxs, a student and freelancer. I'm currently learning JavaScript, and plann
 [SeaScript] is a functional programming language I'm working on, join the [Discord] for updates.
 
 
-![GitHub Stats For rpxs](https://github-readme-stats.vercel.app/api?username=rpxs&count_private=true)
+![GitHub Stats For rpxs](https://github-readme-stats.vercel.app/api?username=rpxs&theme=dark&count_private=true)
 
 
 
