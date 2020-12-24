@@ -1,6 +1,3 @@
-<h1 align="center">rpxs</h1>
-<img src="https://komarev.com/ghpvc/?username=rpxs" alt="rpxs" />
-
 <h2>About Me</h2>
 I'm rpxs, a student that learns stuff. I'm currently learning JavaScript, and planning on learning React soon.
 
@@ -11,7 +8,9 @@ I'm rpxs, a student that learns stuff. I'm currently learning JavaScript, and pl
 
 ![GitHub Stats For rpxs](https://github-readme-stats.vercel.app/api?username=rpxs&theme=prussian&count_private=true)
 
-
+<h1 align="center">rpxs</h1>
+<img src="https://komarev.com/ghpvc/?username=rpxs" alt="rpxs" />
 
 [Discord]:   https://discord.gg/NXKP7vBETm
 [SeaScript]: https://github.com/SeaScript
+
