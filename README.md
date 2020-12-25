@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=rpxs" alt="rpxs">
 
 <h2>About Me</h2>
-I'm rpxs, a student that learns stuff. I'm currently learning JavaScript, and planning on learning React soon.
+I'm rpxs, a student that does webdesign. I'm currently learning JavaScript, and planning on learning React soon.
 
 <h2>Current Projects</h2>
 [SeaScript] is a functional programming language I'm working on, join the [Discord] for updates.
