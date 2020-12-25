@@ -5,6 +5,7 @@
 I'm rpxs, a student that does webdesign. I'm currently learning JavaScript, and planning on learning React soon.
 
 <h2>Current Projects</h2>
+
 [SeaScript] is a functional programming language I'm working on, join the [Discord] for updates.
 
 ![GitHub Stats For rpxs](https://github-readme-stats.vercel.app/api?username=rpxs&theme=prussian&count_private=true)
