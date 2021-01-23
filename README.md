@@ -5,7 +5,7 @@
    <p>I do webdesign.</p>
    <p>I like cheesy stuffed crust pizza.</p>
    <h2>Projects</h2>
-   <a href="https://github.com/rpxs/me" target="_blank">
+   <a href="https://rpxs.me" target="_blank">
       <p>rpxs.me
       <p>
    </a>
