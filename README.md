@@ -13,7 +13,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=rpxs&theme=chartreuse-dark&count_private=true" />
 </td>
 <td>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpxs" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpxs&theme=chartreuse-dark&count_private=true" />
    </td>
    </tr>
 </div>
