@@ -1,9 +1,9 @@
 <div class="container" align="center">
-   <h2>About Me</h2>
+   <h2>Hi!</h2>
    <p>I'm rpxs.</p>
-   <p>I do webdesign.</p>
+   <p>I make sites and other stuff.</p>
    <p>I like cheesy stuffed crust pizza.</p>
-   <h2>Projects</h2>
+   <h2>What I'm working on</h2>
    <a href="https://rpxs.me" target="_blank">
       <p>rpxs.me
       <p>
