@@ -1,8 +1,5 @@
 <div class="container" align="center">
-   <h2>Hi!</h2>
-   <p>I'm rpxs.</p>
-   <p>I make sites and other stuff.</p>
-   <p>I like cheesy stuffed crust pizza.</p>
+   <p>I'm rpxs. I make sites and other stuff using React, NextJS, and sometimes just plain HTML and CSS! Most of my work is private since I don't want anyone to see my trash code. You can see a few of my projects though.</p>
    <h2>What I'm working on</h2>
    <a href="https://rpxs.me" target="_blank">
       <p>rpxs.me
